@@ -14,6 +14,7 @@ You can also learn more at [zazencodes.com](https://zazencodes.com/) and get a w
 
 | Video | What you'll find | Watch | Source code |
 | --- | --- | --- | --- |
+| Build an Agent with Eve (Vercel's Open Agent Framework) | Pocket Research: an eve agent with a Next.js web chat that searches the web, writes short research briefs with sources, and keeps every research item as a durable session you can reopen for follow-ups. Deployed to Vercel. | Video coming soon | [`src/eve-pocket-research`](src/eve-pocket-research) |
 | Build and Deploy an Always-On AI Agent with Pi | Meal-planning agent built with Pi on Neon: Postgres, Auth, Object Storage, Functions, and the AI Gateway, plus a React frontend on Vercel. | Video coming soon | [`src/neon-meal-helper-agent`](src/neon-meal-helper-agent) |
 
 ## Video Index
